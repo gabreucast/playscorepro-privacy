@@ -1,55 +1,43 @@
-# Privacy Policy – PlayScorePro
-
-Last updated: June 2026
+## Information Collection and Use
 
 PlayScorePro is a scorekeeping application designed to help users track points and victories during card game matches such as Truco.
 
-## Information Collection and Use
+The application does not require account creation or directly request personal information such as email addresses, phone numbers, contacts, photos, microphone access, or location data.
 
-PlayScorePro does not collect, store, transmit, or share personal information directly.
-
-The application does not require account creation and does not request personal information such as email addresses, phone numbers, contacts, photos, microphone access, or location data.
+PlayScorePro uses Firebase Crashlytics to collect and process crash reports and diagnostic information to help identify and fix technical issues. This information may include crash logs, stack traces, app state, device information, operating system version, app version, and identifiers used by the crash reporting service.
 
 ## Local Data Storage
 
-PlayScorePro may store game-related information locally on the user's device, such as player names, scores, and match history, solely to provide the application's functionality.
+PlayScorePro may store game-related information locally on the user's device, such as player names, scores, and match history, to provide the application's functionality.
 
-This information remains on the user's device and is not transmitted to external servers.
+This game-related information is not intentionally transmitted to Firebase Crashlytics as part of its standard crash reporting functionality.
 
 ## Advertising
 
-At the time of this publication, PlayScorePro does not display advertisements.
+PlayScorePro does not currently display advertisements and does not currently use advertising services such as Google AdMob.
 
-Future versions of the application may integrate advertising services such as Google AdMob. If advertising services are implemented, they may collect certain information automatically, including advertising identifiers and usage-related data, in accordance with their own privacy policies.
-
-For more information about how Google handles data, please visit:
-
-https://policies.google.com/privacy
-
-Any future integration of advertising services will be reflected in updates to this Privacy Policy and in the application's Google Play Data Safety section.
+If advertising services are introduced in a future version, this Privacy Policy and the application's Google Play Data Safety information will be updated accordingly.
 
 ## Third-Party Services
 
-PlayScorePro may use third-party services in future versions, including analytics, crash reporting, or advertising services.
+PlayScorePro uses Firebase Crashlytics, a service provided by Google, for crash reporting and diagnostics.
 
-Such services will process data according to their respective privacy policies.
+Information processed by Firebase Crashlytics is handled according to Google's applicable privacy terms and documentation:
+
+https://firebase.google.com/support/privacy
+
+https://firebase.google.com/docs/crashlytics
 
 ## Children's Privacy
 
-PlayScorePro does not knowingly collect personal information from children or any other users.
+PlayScorePro does not knowingly collect personal information directly from children. The app does, however, use a third-party crash reporting service as described in this policy.
 
 ## Security
 
-Since PlayScorePro does not collect personal data directly, no personal information is transmitted to or stored on external servers by the application.
+PlayScorePro stores game-related information locally on the user's device. Firebase Crashlytics processes diagnostic information to help maintain and improve the application's stability.
+
+No method of electronic storage or transmission is completely secure.
 
 ## Changes to This Privacy Policy
 
 This Privacy Policy may be updated from time to time. Any changes will be posted on this page with an updated revision date.
-
-## Contact
-
-If you have any questions regarding this Privacy Policy, please contact:
-
-Castillo Devs
-
-Email: [castgabreu@gmail.com](mailto:castgabreu@gmail.com)
